@@ -21,5 +21,5 @@ http
     res.end();
   })
   .listen(PORT, () => {
-    console.log(`Both the refridgerator and your server is running"${PORT}`);
+    console.log(`The serv server is running"${PORT}`);
   });
